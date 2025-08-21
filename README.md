@@ -1,2 +1,2 @@
-# mapt-tep
-Project holding technical proposals around mapt ecosystem
+# mapt-mep
+Project holding Mapt Enhancement Proposals (MEPs) around mapt ecosystem
